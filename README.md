@@ -23,11 +23,3 @@ It lets you check **real-time weather** for any city in the world with a clean i
 - **Requests** (for API calls)
 - **OpenWeatherMap API**
 
----
-
-## 📦 Installation
-
-1️⃣ **Clone the Repository**
-```bash
-git clone https://github.com/cyber.asad/weather-app.git
-cd weather-app

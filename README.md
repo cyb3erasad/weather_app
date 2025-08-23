@@ -15,7 +15,7 @@ It lets you check **real-time weather** for any city in the world with a clean i
 - 🖥 **Modern GUI** — Built with PyQt5 for a smooth user experience.
 - ☁ **Weather Icons & Emojis** — Adds a fun twist to the forecast.
 - 🌡 **Detailed Forecast** — Temperature, display weather like sunny, cloud, rain, etc.
-
+- 🔍 **Instant Search** — Just type a city name and hit get weather button.
 
 ## 🛠 Tech Stack
 - **Python**

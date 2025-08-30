@@ -21,5 +21,5 @@ It lets you check **real-time weather** for any city in the world with a clean i
 - **Python**
 - **PyQt5**
 - **Requests** (for API calls)
-- **OpenWeatherApp API**
+- **OpenWeatherMap API**
 

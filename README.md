@@ -20,6 +20,6 @@ It lets you check **real-time weather** for any city in the world with a clean i
 ## 🛠 Tech Stack
 - **Python**
 - **PyQt5**
-- **Requests** (for API calls))
+- **Requests** (for API calls)
 - **OpenWeatherMap API**
 

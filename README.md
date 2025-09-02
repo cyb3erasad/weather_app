@@ -17,7 +17,7 @@ It lets you check **real-time weather** for any city in the world with a clean i
 - 🌡 **Detailed Forecast** — Temperature, display weather like sunny, cloud, rain, etc.
 - 🔍 **Instant Search** — Just type a city name and hit get weather button.
 
-## 🛠 Tech Stack!
+## 🛠 Tech Stack
 - **Python**
 - **PyQt5**
 - **Requests** (for API calls)

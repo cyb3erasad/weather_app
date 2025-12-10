@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![OpenWeatherMap](https://img.shields.io/badge/API-OpenWeatherMap-orange?logo=cloudflare)
 
-A beautiful and minimal **desktop weather application** built with **Python** and **PyQt5**.  
+A beautiful and minimal **desktop weather application** built with **Python** and **PyQt5**..  
 It lets you check **real-time weather** for any city in the world with a clean interface and fun weather icons.
 
 ---
